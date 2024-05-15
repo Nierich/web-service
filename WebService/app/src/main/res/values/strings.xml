@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Web Service</string>
+    <string name="bt_validar_cpf">Validar CPF</string>
+</resources>
